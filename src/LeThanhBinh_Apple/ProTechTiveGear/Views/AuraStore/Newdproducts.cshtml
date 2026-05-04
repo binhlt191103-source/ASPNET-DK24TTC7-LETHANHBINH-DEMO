@@ -1,0 +1,47 @@
+﻿@model IEnumerable<ProTechTiveGear.Models.Item>
+
+<div class="col-12">
+    <div class="arivals_slider owl-carousel">
+        @if(Model != null && Model.Any())
+        {
+            foreach (var item in Model)
+            {
+                <div class="item" style="padding: 10px;">
+                    <div class="product-card">
+                        
+                        <a href="@Url.Action("Detail","AuraStore", new { id=item.ID })" class="product-img-box">
+                            @if (item.Quantity == 0)
+                            {
+                                <span class="out-of-stock-badge">Hết hàng</span>
+                                <div class="out-of-stock-overlay"></div>
+                            }
+                            <img src="~/img/Item/@item.Picture" alt="@item.Name">
+                        </a>
+
+                        <div class="product-info">
+                            <a href="@Url.Action("Detail","AuraStore", new { id=item.ID })" class="product-title">
+                                @item.Name
+                            </a>
+                            <div class="product-price">
+                                @string.Format("{0:0,0} đ", item.SellPrice)
+                            </div>
+                        </div>
+
+                        @if (item.Quantity == 0)
+                        {
+                            <a class="btn-add-cart disabled" href="javascript:void(0);">
+                                <i class="fa fa-ban"></i> Hết hàng
+                            </a>
+                        }
+                        else
+                        {
+                            <a class="btn-add-cart" href="@Url.Action("AddtoCart","Cart", new { @id=item.ID, @strURL=Request.Url.ToString() })">
+                                <i class="fa fa-cart-plus"></i> Thêm vào giỏ
+                            </a>
+                        }
+                    </div>
+                </div>
+            }
+        }
+    </div>
+</div>

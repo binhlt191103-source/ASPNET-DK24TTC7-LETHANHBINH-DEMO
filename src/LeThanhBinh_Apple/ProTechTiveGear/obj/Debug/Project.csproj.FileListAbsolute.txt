@@ -1,0 +1,705 @@
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\ApplicationInsights.config
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\ProTechTiveGear.dll.config
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\ProTechTiveGear.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\ProTechTiveGear.pdb
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\csc.exe
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\csc.exe.config
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\csc.rsp
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\csi.exe
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\csi.exe.config
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\csi.rsp
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\Microsoft.Managed.Core.targets
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.AppContext.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Collections.Immutable.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Console.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.IO.Compression.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.IO.FileSystem.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.IO.Pipes.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Reflection.Metadata.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Security.AccessControl.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Security.Claims.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Security.Principal.Windows.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.ValueTuple.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Xml.XmlDocument.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Xml.XPath.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\vbc.exe
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\vbc.exe.config
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\vbc.rsp
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\VBCSCompiler.exe
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\VBCSCompiler.exe.config
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Antlr3.Runtime.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\EntityFramework.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\EntityFramework.SqlServer.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.AI.Agent.Intercept.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.AI.DependencyCollector.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.AI.Web.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.AI.WindowsServer.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.ApplicationInsights.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.Web.Infrastructure.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Newtonsoft.Json.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\System.Diagnostics.DiagnosticSource.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.Helpers.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.Mvc.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.Optimization.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.Razor.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.WebPages.Deployment.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.WebPages.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.WebPages.Razor.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\WebGrease.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\EntityFramework.xml
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\EntityFramework.SqlServer.xml
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.Helpers.xml
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.Mvc.xml
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.Optimization.xml
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.Razor.xml
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.WebPages.xml
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.WebPages.Deployment.xml
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.WebPages.Razor.xml
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Newtonsoft.Json.xml
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Antlr3.Runtime.pdb
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\System.Diagnostics.DiagnosticSource.xml
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.AI.DependencyCollector.xml
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.AI.WindowsServer.xml
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.AI.Web.xml
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\obj\Debug\Project.csproj.CopyComplete
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\obj\Debug\ProTechTiveGear.dll
+C:\xampp\htdocs\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\obj\Debug\ProTechTiveGear.pdb
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\ApplicationInsights.config
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\ProTechTiveGear.dll.config
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\ProTechTiveGear.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\ProTechTiveGear.pdb
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\csc.exe
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\csc.exe.config
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\csc.rsp
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\csi.exe
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\csi.exe.config
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\csi.rsp
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\Microsoft.Managed.Core.targets
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.AppContext.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Collections.Immutable.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Console.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.IO.Compression.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.IO.FileSystem.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.IO.Pipes.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Reflection.Metadata.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Security.AccessControl.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Security.Claims.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Security.Principal.Windows.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.ValueTuple.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Xml.XmlDocument.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Xml.XPath.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\vbc.exe
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\vbc.exe.config
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\vbc.rsp
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\VBCSCompiler.exe
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\VBCSCompiler.exe.config
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Antlr3.Runtime.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\EntityFramework.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\EntityFramework.SqlServer.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.AI.Agent.Intercept.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.AI.DependencyCollector.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.AI.Web.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.AI.WindowsServer.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.ApplicationInsights.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.Web.Infrastructure.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Newtonsoft.Json.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\System.Diagnostics.DiagnosticSource.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.Helpers.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.Mvc.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.Optimization.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.Razor.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.WebPages.Deployment.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.WebPages.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.WebPages.Razor.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\WebGrease.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\EntityFramework.xml
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\EntityFramework.SqlServer.xml
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.Helpers.xml
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.Mvc.xml
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.Optimization.xml
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.Razor.xml
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.WebPages.xml
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.WebPages.Deployment.xml
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.WebPages.Razor.xml
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Newtonsoft.Json.xml
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Antlr3.Runtime.pdb
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\System.Diagnostics.DiagnosticSource.xml
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.AI.DependencyCollector.xml
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.AI.WindowsServer.xml
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.AI.Web.xml
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\obj\Debug\Project.csproj.Up2Date
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\obj\Debug\ProTechTiveGear.dll
+D:\demo\NguyenHoaiNam_DATN\PhuKienMayTinh\ProTechTiveGear\obj\Debug\ProTechTiveGear.pdb
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\ApplicationInsights.config
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\ProTechTiveGear.dll.config
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\ProTechTiveGear.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\ProTechTiveGear.pdb
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\csc.exe
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\csc.exe.config
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\csc.rsp
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\csi.exe
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\csi.exe.config
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\csi.rsp
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\Microsoft.CSharp.Core.targets
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\Microsoft.Managed.Core.targets
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\Microsoft.VisualBasic.Core.targets
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.AppContext.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Collections.Immutable.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Console.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Diagnostics.StackTrace.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.IO.Compression.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.IO.FileSystem.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.IO.FileSystem.Primitives.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.IO.Pipes.AccessControl.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.IO.Pipes.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Reflection.Metadata.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Security.AccessControl.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Security.Claims.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Encoding.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Primitives.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Security.Principal.Windows.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Text.Encoding.CodePages.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.ValueTuple.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Xml.ReaderWriter.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Xml.XmlDocument.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Xml.XPath.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\System.Xml.XPath.XDocument.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\vbc.exe
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\vbc.exe.config
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\vbc.rsp
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\VBCSCompiler.exe
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\roslyn\VBCSCompiler.exe.config
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\Antlr3.Runtime.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\EntityFramework.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\EntityFramework.SqlServer.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.AI.Agent.Intercept.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.AI.DependencyCollector.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.AI.PerfCounterCollector.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.AI.ServerTelemetryChannel.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.AI.Web.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.AI.WindowsServer.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.ApplicationInsights.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.Web.Infrastructure.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\Newtonsoft.Json.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\System.Diagnostics.DiagnosticSource.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.Helpers.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.Mvc.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.Optimization.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.Razor.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.WebPages.Deployment.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.WebPages.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.WebPages.Razor.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\WebGrease.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\EntityFramework.xml
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\EntityFramework.SqlServer.xml
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.Helpers.xml
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.Mvc.xml
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.Optimization.xml
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.Razor.xml
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.WebPages.xml
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.WebPages.Deployment.xml
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\System.Web.WebPages.Razor.xml
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\Newtonsoft.Json.xml
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\Antlr3.Runtime.pdb
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\System.Diagnostics.DiagnosticSource.xml
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.AI.DependencyCollector.xml
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.AI.WindowsServer.xml
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.AI.Web.xml
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\obj\Debug\Project.csproj.AssemblyReference.cache
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\obj\Debug\Project.csproj.CoreCompileInputs.cache
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\obj\Debug\Project.csproj.Up2Date
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\obj\Debug\ProTechTiveGear.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\obj\Debug\ProTechTiveGear.pdb
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\Dapper.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.Bcl.AsyncInterfaces.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\System.Runtime.CompilerServices.Unsafe.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\System.Threading.Tasks.Extensions.dll
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\Dapper.xml
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\Microsoft.Bcl.AsyncInterfaces.xml
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\System.Runtime.CompilerServices.Unsafe.xml
+R:\PhuKienMayTinh\PhuKienMayTinh\ProTechTiveGear\bin\System.Threading.Tasks.Extensions.xml
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\ApplicationInsights.config
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\ProTechTiveGear.dll.config
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\ProTechTiveGear.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\ProTechTiveGear.pdb
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\csc.exe
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\csc.exe.config
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\csc.rsp
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\csi.exe
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\csi.exe.config
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\csi.rsp
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\Microsoft.CSharp.Core.targets
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\Microsoft.Managed.Core.targets
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\Microsoft.VisualBasic.Core.targets
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\System.AppContext.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\System.Collections.Immutable.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\System.Console.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\System.Diagnostics.StackTrace.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\System.IO.Compression.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\System.IO.FileSystem.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\System.IO.FileSystem.Primitives.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\System.IO.Pipes.AccessControl.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\System.IO.Pipes.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\System.Reflection.Metadata.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\System.Security.AccessControl.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\System.Security.Claims.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Encoding.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Primitives.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\System.Security.Principal.Windows.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\System.Text.Encoding.CodePages.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\System.ValueTuple.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\System.Xml.ReaderWriter.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\System.Xml.XmlDocument.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\System.Xml.XPath.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\System.Xml.XPath.XDocument.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\vbc.exe
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\vbc.exe.config
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\vbc.rsp
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\VBCSCompiler.exe
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\roslyn\VBCSCompiler.exe.config
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\Antlr3.Runtime.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\Dapper.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\EntityFramework.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\EntityFramework.SqlServer.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\Microsoft.AI.Agent.Intercept.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\Microsoft.AI.DependencyCollector.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\Microsoft.AI.PerfCounterCollector.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\Microsoft.AI.ServerTelemetryChannel.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\Microsoft.AI.Web.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\Microsoft.AI.WindowsServer.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\Microsoft.ApplicationInsights.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\Microsoft.Bcl.AsyncInterfaces.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\Microsoft.Web.Infrastructure.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\Newtonsoft.Json.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\System.Diagnostics.DiagnosticSource.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\System.Runtime.CompilerServices.Unsafe.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\System.Threading.Tasks.Extensions.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\System.Web.Helpers.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\System.Web.Mvc.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\System.Web.Optimization.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\System.Web.Razor.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\System.Web.WebPages.Deployment.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\System.Web.WebPages.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\System.Web.WebPages.Razor.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\WebGrease.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\Dapper.xml
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\EntityFramework.xml
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\EntityFramework.SqlServer.xml
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\Microsoft.Bcl.AsyncInterfaces.xml
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\System.Runtime.CompilerServices.Unsafe.xml
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\System.Threading.Tasks.Extensions.xml
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\System.Web.Helpers.xml
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\System.Web.Mvc.xml
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\System.Web.Optimization.xml
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\System.Web.Razor.xml
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\System.Web.WebPages.xml
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\System.Web.WebPages.Deployment.xml
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\System.Web.WebPages.Razor.xml
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\Newtonsoft.Json.xml
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\Antlr3.Runtime.pdb
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\System.Diagnostics.DiagnosticSource.xml
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\Microsoft.AI.DependencyCollector.xml
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\Microsoft.AI.WindowsServer.xml
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\Microsoft.AI.Web.xml
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\obj\Debug\Project.csproj.AssemblyReference.cache
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\obj\Debug\Project.csproj.CoreCompileInputs.cache
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\obj\Debug\Project.csproj.Up2Date
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\obj\Debug\ProTechTiveGear.dll
+R:\PhuKienMayTinh_Z@lo.0383977395_20250331.123030\ProTechTiveGear\obj\Debug\ProTechTiveGear.pdb
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\ApplicationInsights.config
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\ProTechTiveGear.dll.config
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\ProTechTiveGear.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\ProTechTiveGear.pdb
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\Dapper.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\System.Web.Helpers.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\System.Web.Optimization.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\System.Web.WebPages.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\WebGrease.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\Dapper.xml
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\System.Web.Helpers.xml
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\System.Web.Optimization.xml
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\System.Web.WebPages.xml
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\obj\Debug\Project.csproj.Up2Date
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\obj\Debug\ProTechTiveGear.dll
+C:\Users\Admin\Downloads\PhuKienMayTinh_Z@lo.0383977395_20250331.123030_Z@lo.0383977395_20250401.204957\ProTechTiveGear\obj\Debug\ProTechTiveGear.pdb
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\ApplicationInsights.config
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\ProTechTiveGear.dll.config
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\ProTechTiveGear.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\ProTechTiveGear.pdb
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\Dapper.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\System.Web.Helpers.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\System.Web.Optimization.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\System.Web.WebPages.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\WebGrease.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\Dapper.xml
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\System.Web.Helpers.xml
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\System.Web.Optimization.xml
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\System.Web.WebPages.xml
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\obj\Debug\Project.csproj.Up2Date
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\obj\Debug\ProTechTiveGear.dll
+C:\Users\Admin\Downloads\NgoAnhHao\NgoAnhHao_Apple\ProTechTiveGear\obj\Debug\ProTechTiveGear.pdb
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\ApplicationInsights.config
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\ProTechTiveGear.dll.config
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\ProTechTiveGear.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\ProTechTiveGear.pdb
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\csc.exe
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\csc.exe.config
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\csc.rsp
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\csi.exe
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\csi.exe.config
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\csi.rsp
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\System.AppContext.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\System.Console.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\System.IO.Compression.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\System.IO.FileSystem.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\System.IO.Pipes.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\System.Security.AccessControl.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\System.Security.Claims.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\System.ValueTuple.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\System.Xml.XPath.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\vbc.exe
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\vbc.exe.config
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\vbc.rsp
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\VBCSCompiler.exe
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\Antlr3.Runtime.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\Dapper.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\EntityFramework.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\EntityFramework.SqlServer.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\Microsoft.AI.DependencyCollector.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\Microsoft.AI.Web.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\Microsoft.AI.WindowsServer.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\Microsoft.ApplicationInsights.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\Newtonsoft.Json.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\System.Threading.Tasks.Extensions.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\System.Web.Helpers.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\System.Web.Mvc.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\System.Web.Optimization.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\System.Web.Razor.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\System.Web.WebPages.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\System.Web.WebPages.Razor.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\WebGrease.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\Dapper.xml
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\EntityFramework.xml
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\EntityFramework.SqlServer.xml
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\System.Threading.Tasks.Extensions.xml
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\System.Web.Helpers.xml
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\System.Web.Mvc.xml
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\System.Web.Optimization.xml
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\System.Web.Razor.xml
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\System.Web.WebPages.xml
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\System.Web.WebPages.Razor.xml
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\Newtonsoft.Json.xml
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\Antlr3.Runtime.pdb
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\Microsoft.AI.DependencyCollector.xml
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\Microsoft.AI.WindowsServer.xml
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\Microsoft.AI.Web.xml
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\obj\Debug\Project.csproj.Up2Date
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\obj\Debug\ProTechTiveGear.dll
+D:\Documents\HỌC ONLINE ĐẠI HỌC\Chuyên đề ASP.NET\BÁO CÁO\LeThanhBinh_Apple\LeThanhBinh_Apple\ProTechTiveGear\obj\Debug\ProTechTiveGear.pdb
